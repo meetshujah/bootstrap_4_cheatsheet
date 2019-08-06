@@ -1,8 +1,5 @@
 <!-- comment -->
-<style>
-.red {
-    color:red;
-}
+
 </style>
 
 # Bootstrap 4.3.x Cheatsheet
@@ -11,8 +8,8 @@
 ## *Alert Class*
 
 
-```
-<span class="red">.alert</span>
+```css
+.alert
 
 .alert-primary
 
