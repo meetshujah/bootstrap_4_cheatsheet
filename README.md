@@ -1,13 +1,39 @@
 <!-- comment -->
 
-</style>
+
 
 # Bootstrap 4.3 Cheatsheet
 
 
 ## *Alert Class*
 
+Colons can be used to align columns.
 
+| Alerts        | Badges          | Buttons  |
+| ------------- |-------------| -----|
+| alert  | badge         | btn
+| alert-primary   | badge-primary|btn-primary             
+| alert-secondary  | badge-secondary|btn-secondary
+| alert-success   | badge-success|btn-success
+| alert-danger  | badge-danger|btn-danger
+| alert-warning  | badge-warning|btn-warning
+| alert-info  | badge-info|btn-info
+| alert-light  | badge-light|btn-light
+| alert-dark  | badge-dark|btn-dark
+| alert-link    | badge-pill|btn-link      
+| alert-dismissible   | |btn-lg 
+| alert-heading   ||btn-sm
+||| btn-block
+||| btn-outline-primary
+||| btn-outline-secondary
+||| btn-outline-success
+||| btn-outline-danger
+||| btn-outline-warning
+||| btn-outline-info
+||| btn-outline-light
+||| btn-outline-dark
+
+<!--
 ```css
 
 .alert
@@ -35,42 +61,7 @@
 .alert-heading
 
 .close
-```
-
-## Alert Examples 
-
-```html
-
-<div class="alert alert-primary" role="alert">
-  A simple primary alert—check it out!
-</div>
-
-<div class="alert alert-secondary" role="alert">
-  A simple secondary alert—check it out!
-</div>
-
-<div class="alert alert-success" role="alert">
-  A simple success alert—check it out!
-</div>
-
-<div class="alert alert-danger" role="alert">
-  A simple danger alert—check it out!
-</div>
-
-<div class="alert alert-warning" role="alert">
-  A simple warning alert—check it out!
-</div>
-
-<div class="alert alert-info" role="alert">
-  A simple info alert—check it out!
-</div>
-
-<div class="alert alert-light" role="alert">
-  A simple light alert—check it out!
-</div>
-
-<div class="alert alert-dark" role="alert">
-  A simple dark alert—check it out!
-</div>
 
 ```
+
+-->
