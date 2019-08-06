@@ -2,7 +2,7 @@
 
 </style>
 
-# Bootstrap 4.3.x Cheatsheet
+# Bootstrap 4.3 Cheatsheet
 
 
 ## *Alert Class*
