@@ -9,8 +9,8 @@
 
 Colons can be used to align columns.
 
-| Alerts        | Badges          | Buttons  |
-| ------------- |-------------| -----|
+| Alerts        | Badges          | Button | Buttons Outline |
+| ------------- |-------------| ------| ----------------------------|
 | alert  | badge         | btn
 | alert-primary   | badge-primary|btn-primary             
 | alert-secondary  | badge-secondary|btn-secondary
